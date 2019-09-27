@@ -1,10 +1,14 @@
-## Your Name
+## Alistair Phipps
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+I've worked for the John Lewis Partnership for 14 years, starting an IT graduate and working through a technical career path into project management, delivery leadership and coaching. 
+
+I've now decided to return back to what I love most about tech which is getting hands on with coding and shipping products that excite our customers. Makers Acedemy is the first step on that journey.
 
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+
+
 
 #### This Skill
 
